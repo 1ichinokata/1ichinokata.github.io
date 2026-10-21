@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.lotogenerator",
+      "sha256_cert_fingerprints": [
+        "B9:F9:06:EE:50:C6:94:DF:9A:2C:2A:2C:E7:FE:CD:0F:24:2D:B2:1A:06:BE:0F:11:9A:54:11:49:17:03:DA:5D",
+        "EE:5F:89:51:FA:E8:10:A3:89:B7:FC:40:C4:CA:C2:CD:57:D4:2C:3D:D3:82:C5:5C:76:54:B7:3E:8A:7E:5E:90"
+      ]
+    }
+  }
+]
